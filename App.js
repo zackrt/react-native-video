@@ -22,7 +22,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>React Native Video!</Text>
-        <Text style={styles.instructions}>Basic Video App</Text>
+        <Text style={styles.instructions}>Basic Video App with Expo</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
     );
