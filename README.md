@@ -7,3 +7,7 @@ this app was built with
 create react-native-app
 
 homebrew
+
+ideas for refactor:
+start with layout
+build out css in stylesheet
