@@ -11,3 +11,4 @@ homebrew
 ideas for refactor:
 start with layout
 build out css in stylesheet
+start with landing ui
