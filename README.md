@@ -8,7 +8,8 @@ create react-native-app
 
 homebrew
 
-ideas for refactor:
+##ideas for refactor:
 start with layout
 build out css in stylesheet
 start with landing ui
+page navigation
