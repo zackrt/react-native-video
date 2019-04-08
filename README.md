@@ -10,7 +10,9 @@ homebrew
 
 ##ideas for refactor:
 
-start with layout
+start with layout:
+onScroll actions,
+how many thumbnails across?
 
 build out css in stylesheet
 
