@@ -18,4 +18,8 @@ start with landing ui
 
 page navigation
 
-color palette with contrasting colors
+color palette with contrasting colors 
+
+profile ui
+
+landing screen ui, circular motif
