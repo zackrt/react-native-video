@@ -13,6 +13,7 @@ homebrew
 start with layout:
 onScroll actions,
 how many thumbnails across?
+icons on top or bottom?
 
 build out css in stylesheet
 
