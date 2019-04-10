@@ -26,3 +26,5 @@ color palette with contrasting colors
 profile ui
 
 landing screen ui, circular motif
+
+find what would increase usership, usuably? Simplicity, sleek?
