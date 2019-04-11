@@ -9,7 +9,7 @@ create react-native-app
 homebrew
 
 ##ideas for refactor:
-
+NEED WIREFRAME
 start with layout:
 onScroll actions,
 how many thumbnails across?
