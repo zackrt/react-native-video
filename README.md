@@ -30,3 +30,7 @@ profile ui
 landing screen ui, circular motif
 
 find what would increase usership, usuably? Simplicity, sleek?
+
+how can augmented or virtual reality templates improve UI?UX?
+
+monetization through subscription?
