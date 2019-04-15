@@ -34,3 +34,5 @@ find what would increase usership, usuably? Simplicity, sleek?
 how can augmented or virtual reality templates improve UI?UX?
 
 monetization through subscription?
+
+ how can you gameify the ui/ux? Incremental leveling and reward for doing what, in-app?
