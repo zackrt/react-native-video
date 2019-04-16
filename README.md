@@ -36,3 +36,5 @@ how can augmented or virtual reality templates improve UI?UX?
 monetization through subscription?
 
  how can you gameify the ui/ux? Incremental leveling and reward for doing what, in-app?
+ 
+ test in both iPhone, iPad & Android
