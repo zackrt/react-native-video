@@ -9,7 +9,7 @@ create react-native-app
 homebrew
 
 ##ideas for refactor:
-NEED WIREFRAME 
+1. NEED WIREFRAME 
 Drawout full individual page layouts
 
 start with layout:
