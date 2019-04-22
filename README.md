@@ -13,6 +13,7 @@ homebrew
 Drawout full individual page layouts
 
 start with layout:
+icon layouts and colors 
 onScroll actions,
 how many thumbnails across?
 icons on top or bottom?
