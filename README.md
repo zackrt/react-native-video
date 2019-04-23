@@ -10,7 +10,7 @@ homebrew
 
 ##ideas for refactor:
 1. NEED WIREFRAME 
-Drawout full individual page layouts
+  a.Drawout full individual page layouts
 
 start with layout:
 icon layouts and colors 
