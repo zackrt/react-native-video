@@ -17,6 +17,8 @@ icon layouts and colors
 onScroll actions,
 how many thumbnails across?
 icons on top or bottom?
+core logic:
+auto login, after register?
 
 build out css in stylesheet
 
