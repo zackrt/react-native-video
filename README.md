@@ -43,3 +43,5 @@ monetization through subscription?
  test in both iPhone, iPad & Android
 
 test airpod/ voice command capabilities in ios12?
+
+test all edge cases for errors
