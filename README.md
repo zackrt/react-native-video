@@ -28,9 +28,9 @@ page navigation
 
 color palette with contrasting colors 
 
-profile ui
+profile ui 
 
-landing screen ui, circular motif
+landing screen ui, circular motif, how many videos in the grid?
 
 find what would increase usership, usuably? Simplicity, sleek?
 
