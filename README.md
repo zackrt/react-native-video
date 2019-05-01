@@ -14,6 +14,7 @@ homebrew
 
 start with layout:
 icon layouts and colors 
+upload as media assets
 onScroll actions,
 how many thumbnails across?
 icons on top or bottom?
