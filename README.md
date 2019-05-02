@@ -26,6 +26,7 @@ build out css in stylesheet
 start with landing ui
 
 page navigation
+props: pass in user credentials 
 
 color palette with contrasting colors 
 
