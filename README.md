@@ -11,7 +11,7 @@ homebrew
 ##ideas for refactor:
 1. NEED WIREFRAME 
   a.Drawout full individual page layouts
-  b.screen navigation layout
+  b.screen navigation layout before/after landing page/ login
 
 start with layout:
 icon layouts and colors 
