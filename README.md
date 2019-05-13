@@ -11,6 +11,7 @@ homebrew
 ##ideas for refactor:
 1. NEED WIREFRAME 
   a.Drawout full individual page layouts
+  b.screen navigation layout
 
 start with layout:
 icon layouts and colors 
@@ -25,7 +26,7 @@ build out css in stylesheet
 
 start with landing ui
 
-page navigation
+page navigation layout, which component
 props: pass in user credentials 
 
 color palette with contrasting colors 
