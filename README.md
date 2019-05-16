@@ -18,6 +18,7 @@ icon layouts and colors
 upload as media assets
 onScroll actions,
 how many thumbnails across?
+profile pictures?
 icons on top or bottom?
 core logic:
 auto login, after register?
