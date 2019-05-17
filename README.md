@@ -25,7 +25,7 @@ auto login, after register?
 
 build out css in stylesheet
 
-start with landing ui
+start with landing page ui
 
 page navigation layout, which component
 props: pass in user credentials 
