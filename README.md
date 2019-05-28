@@ -2,7 +2,7 @@
 
 # stack: React-Native, Expo, Expo Client, Jest, Watchman, React-Native Video Player
 
-this app was built with:
+this application was built with:
 
 create react-native-app
 
