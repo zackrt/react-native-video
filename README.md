@@ -52,4 +52,5 @@ test all edge cases for errors on all screens and inputs
 
 backup all repos 
 
+check all runtime speeds and optimize
 
