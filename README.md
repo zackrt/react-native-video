@@ -55,3 +55,5 @@ backup all repos
 check all runtime speeds and optimize
 
 upgrade handlebars
+
+deploy
