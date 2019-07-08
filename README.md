@@ -23,9 +23,9 @@ icons on top or bottom?
 core logic:
 auto login, after register?
 
-build out css in stylesheet
+build out css in stylesheets
 
-start with landing page ui
+start with landing page user interface
 
 page navigation layout, which component
 props: pass in user credentials 
